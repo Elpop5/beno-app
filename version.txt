@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/USERNAME/beno-app/main/version.txt
+1.0.0
